@@ -34,7 +34,7 @@ BiteByByte, a web application, utilizes JavaScript and React for an interactive,
 
 We have incorporated innovative designs to ensure a visually appealing and user-friendly experience. You can explore the interactive prototypes, user interfaces, and the thoughtfully crafted design elements that make BiteByByte not only functional but also aesthetically pleasing.
 
-<img src =  "splash.png" width = "200" height = "400" > 
+<img src =  ".BiteByByte/img/splash.png" width = "200" height = "400" > 
 
 ### Market Research
 
