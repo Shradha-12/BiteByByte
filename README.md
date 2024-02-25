@@ -36,7 +36,15 @@ We have incorporated innovative designs to ensure a visually appealing and user-
 
 <img src =  "./BiteByByte/imgs/splash.png" width = "200" height = "400" > 
 <img src =  "./BiteByByte/imgs/welcome.png" width = "200" height = "400" > 
+<img src =  "./BiteByByte/imgs/create.png" width = "200" height = "400" > 
 <img src =  "./BiteByByte/imgs/profile info.png" width = "200" height = "400" > 
+<img src =  "./BiteByByte/imgs/profile info2.png" width = "200" height = "400" > 
+<img src =  "./BiteByByte/imgs/profile info3.png" width = "200" height = "400" > 
+<img src =  "./BiteByByte/imgs/profile info4.png" width = "200" height = "400" > 
+<img src =  "./BiteByByte/imgs/Home.png" width = "200" height = "400" > 
+<img src =  "./BiteByByte/imgs/Calorie.png" width = "200" height = "400" > 
+<img src =  "./BiteByByte/imgs/Community.png" width = "200" height = "400" > 
+<img src =  "./BiteByByte/imgs/Profile.png" width = "200" height = "400" > 
 
 ### Market Research
 
