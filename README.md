@@ -34,15 +34,17 @@ BiteByByte, a web application, utilizes JavaScript and React for an interactive,
 
 We have incorporated innovative designs to ensure a visually appealing and user-friendly experience. You can explore the interactive prototypes, user interfaces, and the thoughtfully crafted design elements that make BiteByByte not only functional but also aesthetically pleasing.
 
--  Home Page
-
-- Blog Section
-- 
-- Health Monitoring Tools
-- 
-- Community Support Interface
-- 
-- SOS Button Integration
+<img src =  "./BiteByByte/imgs/splash.png" width = "180" height = "400" > 
+<img src =  "./BiteByByte/imgs/welcome.png" width = "180" height = "400" > 
+<img src =  "./BiteByByte/imgs/create.png" width = "180" height = "400" > 
+<img src =  "./BiteByByte/imgs/profile info.png" width = "180" height = "400" > 
+<img src =  "./BiteByByte/imgs/profile info2.png" width = "180" height = "400" > 
+<img src =  "./BiteByByte/imgs/profile info3.png" width = "180" height = "400" > 
+<img src =  "./BiteByByte/imgs/profile info4.png" width = "180" height = "400" > 
+<img src =  "./BiteByByte/imgs/Home.png" width = "180" height = "400" > 
+<img src =  "./BiteByByte/imgs/Calorie.png" width = "180" height = "400" > 
+<img src =  "./BiteByByte/imgs/Community.png" width = "180" height = "400" > 
+<img src =  "./BiteByByte/imgs/Profile.png" width = "180" height = "400" > 
 
 ### Market Research
 
